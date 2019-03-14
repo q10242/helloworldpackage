@@ -1,5 +1,5 @@
 {
-    "name": "huanghaozhe/helloworld",
+    "name": "ky/helloworld",
     "authors": [
         {
             "name": "Kyjita",
@@ -10,7 +10,7 @@
     "autoload":{
       "psr-4":{
         "App\\":"app/",
-        "ky\\helloworld\\":"packages/ky/helloworld/src/"
+        "ky\\helloworld\\":"src/"
       }
     }
 }
